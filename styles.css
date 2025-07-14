@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(to right, #6dd5ed, #2193b0);
@@ -18,3 +19,25 @@ body {
   width: 80px;
   height: 80px;
 }
+=======
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #6dd5ed, #2193b0);
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+  margin: 0;
+}
+
+.weather-app {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  padding: 20px;
+  display: inline-block;
+}
+
+#weather img {
+  width: 80px;
+  height: 80px;
+}
+>>>>>>> 0b30adc06223c65749e75a804990279745b9f6c3
